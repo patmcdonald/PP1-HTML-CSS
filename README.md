@@ -11,6 +11,8 @@ I'll also emphasise how knitting is a creative and mindful practice.
 
 [http://ami.responsivedesign.is/]
 
+[https://github.com/Code-Institute-Solutions/readme-template]
+
 ## Features
 #### Heading
 #### Nav
