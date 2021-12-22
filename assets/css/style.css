@@ -1,5 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&family=Open+Sans:wght@300&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
 
 body {
-    color: red;
+    font-family: Nunito, sans-serif;
+    font-weight: 300;
+    color: #3a3a3a;
+
 }
