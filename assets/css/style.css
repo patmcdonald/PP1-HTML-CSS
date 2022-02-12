@@ -99,9 +99,9 @@ header {
 #hero-image {
   height: 100%;
   width: 100%;
-  background-size: cover;
-  background-position: center;
-  background-image: url(..assets/yrn-hero.jpeg) no-repeat center center;
+  /* background-size: cover;
+  background-position: center; */
+  background: url('assets/images/yrn-hero.webp') center center no-repeat;
 }
 
 /* typography */
