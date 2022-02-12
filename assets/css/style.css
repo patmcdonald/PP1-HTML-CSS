@@ -13,7 +13,7 @@
 
 body{
   font-family: 'Open Sans', sans-serif;
-  background-color: orange;
+  font-size: 5ch;
 }
 
 
@@ -52,8 +52,8 @@ header {
   width: 100%;
   background-size: cover;
   background-position: center;
-  /* background: url('assets/images/yrn-hero.webp') center center no-repeat; */
-  background-color: greenyellow;
+  background: url('../images/yrn-hero.webp') center center no-repeat;
+  background-color: #cccccc;
 }
 
 /* typography */
