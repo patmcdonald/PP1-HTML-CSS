@@ -4,7 +4,7 @@
 /* font-family: 'Open Sans', sans-serif; */
 
 /* HTML elements */
-
+/* Test CSS code */
 * {
   margin: 0;
   padding: 0;
@@ -52,7 +52,7 @@ header {
   width: 100%;
   background-size: cover;
   background-position: center;
-  background: url('../images/yrn-hero.webp') center center no-repeat;
+  background-image: url('../images/yrn-hero.webp') center center no-repeat;
   background-color: #cccccc;
 }
 

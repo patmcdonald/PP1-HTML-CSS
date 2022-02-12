@@ -5,6 +5,9 @@ This will be a knitting website.
 My plan is to create a website promoting knitting as an accessible activity for anyone.
 I'll also emphasise how knitting is a creative and mindful practice.
 
+### I have been trying to get make my CSS render on Gitpod - It's not working at present, so I'm submitting my project as it stands
+### It seems to render on my local machine, but images are not being read by the browser via CSS or `img` tag in index.html.
+
 -----
 
 ### YARNIE - name of website
@@ -29,7 +32,7 @@ I'll also emphasise how knitting is a creative and mindful practice.
 - sources
 - validation
 
-[https://contrastchecker.com/] - Hero image and overlaying text
+[https://contrastchecker.com/] - Hero image and overlaying text check
 
 [https://validator.w3.org/#validate_by_input]- HTML
 
