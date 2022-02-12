@@ -29,7 +29,7 @@ header {
 #id {
   font-size: 1ch;
 }
-/* sample code from 'Love Running' project - not working due to Gitpod issues */
+/* Sample CSS code from Code Institute 'Love Running' project - not working due to Gitpod issues */
 .about {
   height: 600px;
   width: 100%;
@@ -46,7 +46,7 @@ header {
 }
 
 /* media */
-/* sample code from 'Love Running' project - not working due to Gitpod issues */
+/* Sample CSS code from Code Institute 'Love Running' project - not working due to Gitpod issues */
 #hero-image {
   height: 600PX;
   width: 100%;

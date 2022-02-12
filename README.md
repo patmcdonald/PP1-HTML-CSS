@@ -7,6 +7,7 @@ I'll also emphasise how knitting is a creative and mindful practice.
 
 ### I have been trying to get make my CSS render on Gitpod - It's not working at present, so I'm submitting my project as it stands
 ### It seems to render on my local machine, but images are not being read by the browser via CSS or `img` tag in index.html.
+### Sample CSS code from Code Institute 'Love Running' project - not working due to Gitpod issues 
 
 -----
 
