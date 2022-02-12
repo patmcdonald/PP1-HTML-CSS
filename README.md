@@ -28,6 +28,9 @@ I'll also emphasise how knitting is a creative and mindful practice.
 - manual?
 - sources
 - validation
+
+[https://contrastchecker.com/] - Hero image and overlaying text
+
 [https://validator.w3.org/#validate_by_input]- HTML
 
 [https://jigsaw.w3.org/css-validator/]- CSS
