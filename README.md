@@ -11,8 +11,6 @@ I intend my design and development to be simple, balanced with a welcoming feel 
 
 ### If I use media queries for responsiveness - I'll utilised a minimum of queries to have the ensure functionality across devices and browsers.
 
-### I have been trying to get make my CSS render on Gitpod - It's not working at present, so I'm submitting my project as it stands
-### It seems to render on my local machine, but images are not being read by the browser via CSS or `img` tag in index.html.
 ### Sample CSS code from Code Institute 'Love Running' project - not working due to Gitpod issues 
 
 -----
@@ -65,15 +63,16 @@ I intend my design and development to be simple, balanced with a welcoming feel 
 -----
 
 ### Credits
-
+ - Images(creator and URL)
 -----
 
 ##### Borrowed Code - under licence
-
+- attributed correctly and customisation outlined in README
 -----
 
 ##### Content
-
+- Pleasing, without overwhelming users
 ------
 
 ##### Media
+- Credited, and of high quality with fast loading and appropriate formats
