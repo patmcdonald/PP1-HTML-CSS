@@ -22,6 +22,8 @@ header {
 }
 
 #navbar {
+  height: auto;
+  width: auto;
   font-size: 1ch;
 }
 
@@ -32,7 +34,7 @@ header {
 /* Sample CSS code from Code Institute 'Love Running' project - not working due to Gitpod issues */
 #about {
   height: 600px;
-  width: 100%;
+  width: auto;
   overflow: hidden;
   position: relative;
   /* font-size: 1ch; */
@@ -42,7 +44,7 @@ header {
 /* Sample CSS code from Code Institute 'Love Running' project - not working due to Gitpod issues */
 #hero-image {
   height: 600px;
-  width: 100%;
+  width: auto;
   /* background-size: cover;
   background-position: center; */
   background: url('../images/yrn-hero.webp') no-repeat center center;
@@ -51,11 +53,19 @@ header {
 
 
 #contact {
+  height: 100px;
+  width: auto;
   font-size: 1ch;
+  /* placeholder colour */
+  background-color: aquamarine;
 }
 
 #sign-up {
+  height: 100px;
+  width: auto;
   font-size: 1ch;
+  /* placeholder colour */
+  background-color: azure;
 }
 
 /* typography */
