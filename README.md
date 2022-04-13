@@ -25,8 +25,8 @@ I intend my design and development to be simple, balanced with a welcoming feel 
 #### Heading
 #### Nav
 #### Gallery/ Media?
-#### Download pattern?
-#### SignUp
+#### Download pattern or free pattern on email signup
+#### SignUp- email checking functions, responsive button?
 
 -----
 
