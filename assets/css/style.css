@@ -13,7 +13,7 @@
 
 body{
   font-family: 'Open Sans', sans-serif;
-  font-size: 5ch;
+  font-size: 8ch;
 }
 
 
@@ -48,7 +48,7 @@ header {
 /* media */
 /* Sample CSS code from Code Institute 'Love Running' project - not working due to Gitpod issues */
 #hero-image {
-  height: 600PX;
+  height: 600px;
   width: 100%;
   background-size: cover;
   background-position: center;
