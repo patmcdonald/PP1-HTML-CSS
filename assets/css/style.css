@@ -42,11 +42,18 @@ header {
 
 /* media */
 /* Sample CSS code from Code Institute 'Love Running' project - not working due to Gitpod issues */
+#hero-outer {
+  height: 600px;
+  width: 100%;
+  position: relative;
+}
+
 #hero-image {
   height: 600px;
-  width: auto;
-  /* background-size: cover;
-  background-position: center; */
+  width: 100%;
+
+  background-size: auto;
+  background-position: center;
   background: url('../images/yrn-hero.webp') no-repeat center center;
   background-color: #cccccc;
 }
