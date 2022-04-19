@@ -9,6 +9,7 @@
   margin: 0;
   padding: 0;
   border: 0;
+  box-sizing: border-box;
 }
 
 body{
@@ -26,7 +27,9 @@ header {
   width: auto;
   font-size: 1ch;
 }
+li {
 
+}
 
 #id {
   font-size: 1ch;
