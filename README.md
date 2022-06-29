@@ -1,11 +1,16 @@
 # PP1-HTML-CSS README.md file
 ## Initial content of this file
 
-This will be a knitting website.
-My plan is to create a website promoting knitting as an accessible activity for anyone.
-I'll also emphasise how knitting is a creative and mindful practice.
+My plans for this website are revised.
+I'm building a website for a childcare facilty in rural Ireland.
+It will have information about the location, facilities, and services available for children attending.
+- Creche
+- Playschool
+- Easter and Summer camps
 
-I intend my design and development to be simple, balanced with a welcoming feel and usability for users.
+I'll use cards to display this info, with potential options to link to more details on seperate pages.
+
+A gallery of stock photos with childcare and play content.
 
 ### For layout I'm considering CSS GRID or FLEXBOX for responsive design coding. This will hopefully simplify the development process and keep my code robust and easy to maintain of required in future.
 
@@ -15,7 +20,6 @@ I intend my design and development to be simple, balanced with a welcoming feel 
 
 -----
 
-### YARNIE - name of website
 
 [http://ami.responsivedesign.is/]
 
@@ -25,7 +29,7 @@ I intend my design and development to be simple, balanced with a welcoming feel 
 #### Heading
 #### Nav
 #### Gallery/ Media?
-#### Download pattern or free pattern on email signup
+#### Cards with info and photo - Creche, Playschool, Camps
 #### SignUp- email checking functions, responsive button?
 
 -----
@@ -42,6 +46,8 @@ I intend my design and development to be simple, balanced with a welcoming feel 
 [https://validator.w3.org/#validate_by_input]- HTML
 
 [https://jigsaw.w3.org/css-validator/]- CSS
+
+PolyPane - device display compatibility
 
 [https://developers.google.com/web/tools/lighthouse] - accessibility(crucial!)
 
@@ -71,7 +77,7 @@ I intend my design and development to be simple, balanced with a welcoming feel 
 -----
 
 ##### Content
-- Pleasing, without overwhelming users
+- Pleasing, and informative. Funding details for parents and guardians.
 ------
 
 ##### Media
